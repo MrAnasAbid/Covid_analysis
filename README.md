@@ -1,2 +1,4 @@
 # Covid_analysis
-Visualization of covid deaths and vaccinations from the ourworldindata database.
+The following project aims to look at covid deaths mainly through 3 important metrics, the death rate, the mortality rate and the contraction rate. Looking at these metrics in a multidimensionnal analysis way makes it much more interesting to get insights on which continents and or countries were most affected with the pandemic, many unexpected things were observed over the course of my analysis and made me reflect on just how differently covid hit the world. In the following code, I warehoused the data and created a star scheme with in order to analyse it with ease, the resulting database can be imported into a BI tool to create visualizations with the already existing data.
+
+Data source : https://ourworldindata.org/covid-deaths (download the csv file from the first date available)
